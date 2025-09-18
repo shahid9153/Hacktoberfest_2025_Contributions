@@ -1,4 +1,4 @@
-# 🩺 OpenXHealth – Hacktoberfest 2026 Contributions 🎉
+# 🩺 OpenXHealth – Hacktoberfest 2025 Contributions 🎉
 
 Welcome to the **OpenXHealth Hacktoberfest 2026 Repository** 🚀
 We are an **open-source AI-driven healthcare research community**, and this repo is part of **Hacktoberfest 2026** to bring together contributors from across the world to **collaborate, learn, and innovate in AI for Health**.
