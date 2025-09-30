@@ -1,7 +1,7 @@
 # 🩺 OpenXHealth – Hacktoberfest 2025 Contributions 🎉
 
-Welcome to the **OpenXHealth Hacktoberfest 2026 Repository** 🚀
-We are an **open-source AI-driven healthcare research community**, and this repo is part of **Hacktoberfest 2026** to bring together contributors from across the world to **collaborate, learn, and innovate in AI for Health**.
+Welcome to the **OpenXHealth Hacktoberfest 2025 Repository** 🚀
+We are an **open-source AI-driven healthcare research community**, and this repo is part of **Hacktoberfest 2025** to bring together contributors from across the world to **collaborate, learn, and innovate in AI for Health**.
 
 Whether you are a **student, ML enthusiast, web developer, designer, or researcher** — you can make an impact here.
 
@@ -22,7 +22,7 @@ Our mission is to **democratize AI in healthcare** and make medical intelligence
 
 ---
 
-## 🚀 How to Contribute (Hacktoberfest 2026)
+## 🚀 How to Contribute (Hacktoberfest 2025)
 
 1. **Fork this Repository**
    Click `Fork` (top-right corner).
@@ -30,8 +30,8 @@ Our mission is to **democratize AI in healthcare** and make medical intelligence
 2. **Clone the Repo**
 
    ```bash
-   git clone https://github.com/your-username/Hacktoberfest_2026_Contributions.git
-   cd Hacktoberfest_2026_Contributions
+   git clone https://github.com/your-username/Hacktoberfest_2025_Contributions.git
+   cd Hacktoberfest_2025_Contributions
    ```
 
 3. **Create a Branch**
@@ -53,7 +53,7 @@ Our mission is to **democratize AI in healthcare** and make medical intelligence
 
    ```bash
    git add .
-   git commit -m "Added my contribution for Hacktoberfest 2026"
+   git commit -m "Added my contribution for Hacktoberfest 2025"
    git push origin your-feature-name
    ```
 
@@ -73,7 +73,7 @@ Our mission is to **democratize AI in healthcare** and make medical intelligence
 
 ## 🌟 Why Contribute to OpenXHealth?
 
-* Your PRs count towards **Hacktoberfest 2026** 🎉
+* Your PRs count towards **Hacktoberfest 2025** 🎉
 * You’ll be contributing to **AI in healthcare** that can save lives ❤️
 * Get featured in our **Contributors list**
 * Network with **ML engineers, doctors, and open-source enthusiasts**
@@ -95,7 +95,7 @@ Thanks to everyone who contributes 💙
 
 ---
 
-✨ Let’s make **Hacktoberfest 2026 at OpenXHealth** a global collaboration for **AI in healthcare** 🚀
+✨ Let’s make **Hacktoberfest 2025 at OpenXHealth** a global collaboration for **AI in healthcare** 🚀
 
 ---
 
