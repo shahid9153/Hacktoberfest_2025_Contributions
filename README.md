@@ -65,7 +65,7 @@ Our mission is to **democratize AI in healthcare** and make medical intelligence
 ## ✅ Guidelines
 
 * Make **meaningful contributions** (no spam).
-* PRs should focus on **one change at a time**.
+* Pull requests (PRs) should focus on **one change at a time**.
 * Be respectful and follow our **Code of Conduct**.
 * Contributions in **AI, Web, Docs, or Open Data** are most welcome.
 
